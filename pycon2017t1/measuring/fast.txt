@@ -1,0 +1,11 @@
+         204 function calls in 0.109 seconds
+
+   Ordered by: internal time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+      100    0.108    0.001    0.108    0.001 {built-in method sleep}
+      100    0.000    0.000    0.109    0.001 <ipython-input-5-31b8b4df29c5>:13(fast)
+        1    0.000    0.000    0.109    0.109 <ipython-input-5-31b8b4df29c5>:25(use_fast)
+        1    0.000    0.000    0.109    0.109 {built-in method exec}
+        1    0.000    0.000    0.109    0.109 <string>:1(<module>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
